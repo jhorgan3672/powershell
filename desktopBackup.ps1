@@ -1,0 +1,1 @@
+Copy-Item -Path "C:\Users\jhorgan\Documents\Horgan-Backup-Desktop" -Destination "C:\Users\jhorgan\OneDrive - DOI" -Recurse
